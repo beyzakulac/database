@@ -23,13 +23,13 @@ Proje, operasyonel süreçleri yönetmek için aşağıdaki tabloları içerir:
 * **Yedekleme:** Veritabanı güvenliği için `BACKUP` senaryosu.
 * **Analitik:** `DATEDIFF` ile sipariş üzerinden geçen süre analizi.
 
-## 📋 Örnek Sorgu Yapısı
+##  Örnek Sorgu Yapısı
 Proje içerisinde yer alan bazı temel analizler:
 1. **Stok Analizi:** Stok seviyesi kritik olan ürünlerin listelenmesi.
 2. **Müşteri Raporları:** Müşteri ve sipariş tarihleri ile detaylı dökümler.
 3. **Ciro Analizi:** Müşteri bazlı toplam harcama sıralaması.
 
-## 🚀 Nasıl Çalıştırılır?
+## 🚀Nasıl Çalıştırılır?
 
 1. SQL Server Management Studio (SSMS) uygulamasını başlatın.
 2. Yeni bir **Query** sayfası açın.
@@ -37,7 +37,7 @@ Proje içerisinde yer alan bazı temel analizler:
 4. `Execute` (F5) tuşuna basarak veritabanını oluşturun.
 5. `SELECT * FROM vw_SiparisOzet;` komutuyla sistemi test etmeye başlayın.
 
-## 👤 İletişim & Katkı
+##  İletişim & Katkı
 Bu proje eğitim amaçlı geliştirilmiştir. Veritabanı tasarımı veya SQL sorguları ile ilgili önerileriniz olursa "Pull Request" oluşturabilirsiniz.
 Yükleme Adımları (Terminalden)
 Dosyayı oluşturduktan sonra GitHub'a göndermek için terminalinde şunları yazman yeterli:
