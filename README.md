@@ -1,6 +1,4 @@
-Harika, SQL projen için tam olması gerektiği gibi, GitHub'ın desteklediği Markdown formatında profesyonel bir README.md hazırladım. Bunu kopyalayıp depondaki README.md dosyasının içine yapıştırabilirsin.
 
-Markdown
 # NovaStoreDB - E-Ticaret Veritabanı Projesi
 
 NovaStoreDB, bir e-ticaret sisteminin temel işleyişini modellemek amacıyla oluşturulmuş, SQL Server (T-SQL) tabanlı bir veritabanı yönetim projesidir. Proje; veritabanı tasarımı, ilişkisel tablo yapıları (DDL), veri manipülasyonu (DML) ve gelişmiş sorgulama tekniklerini kapsamaktadır.
